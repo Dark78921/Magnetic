@@ -1,0 +1,171 @@
+# Change Log
+
+## [Version 3.3.1](https://github.com/efremidze/Magnetic/releases/tag/3.3.1)
+Released on 2022-06-06
+
+- Bump to iOS 13
+
+## [Version 3.3.0](https://github.com/efremidze/Magnetic/releases/tag/3.3.0)
+Released on 2022-06-06
+
+- Adds custom accessibilityRotor and accessibilityFrame/label to each node (#58)
+
+## [Version 3.2.1](https://github.com/efremidze/Magnetic/releases/tag/3.2.1)
+Released on 2020-06-16
+
+- Added Reset Function to MagneticView, Enabled Mac Catalyst on Example, Refactoring
+
+## [Version 3.2.0](https://github.com/efremidze/Magnetic/releases/tag/3.2.0)
+Released on 2020-04-05
+
+- Allow a custom animationDuration selectedScale deselectedScale to be set dbe2ab2
+- Allow a different color (selectedColor) to be shown during the selectionAnimation and likewise with the font color (selectedFontColor) dbe2ab2
+- Long press to remove the node, based on removeNodeOnLongPress and longPressDuration f0bcd2a
+- Added a new optional method to the MagneticDelegate called when a node is removed
+
+## [Version 3.1.2](https://github.com/efremidze/Magnetic/releases/tag/3.1.2)
+Released on 2019-10-25
+
+- SPM Fix
+
+## [Version 3.1.1](https://github.com/efremidze/Magnetic/releases/tag/3.1.1)
+Released on 2019-10-05
+
+- SPM Support
+
+## [Version 3.1.0](https://github.com/efremidze/Magnetic/releases/tag/3.1.0)
+Released on 2019-08-18
+
+- Removed MaskNode
+
+## [Version 3.0.0](https://github.com/efremidze/Magnetic/releases/tag/3.0.0)
+Released on 2019-04-23
+
+- Swift 5.0 support
+
+## [Version 2.1.2](https://github.com/efremidze/Magnetic/releases/tag/2.1.2)
+Released on 2018-12-06
+
+- Exposed functions
+
+## [Version 2.1.1](https://github.com/efremidze/Magnetic/releases/tag/2.1.1)
+Released on 2018-12-06
+
+- Added Node convenience init
+
+## [Version 2.1.0](https://github.com/efremidze/Magnetic/releases/tag/2.1.0)
+Released on 2018-12-06
+
+- Swift 4.2 Support
+
+## [Version 2.0.12](https://github.com/efremidze/Magnetic/releases/tag/2.0.12)
+Released on 2018-12-06
+
+- Added custom node paths and spacing
+
+## [Version 2.0.11](https://github.com/efremidze/Magnetic/releases/tag/2.0.11)
+Released on 2018-08-21
+
+- Minor fix
+
+## [Version 2.0.10](https://github.com/efremidze/Magnetic/releases/tag/2.0.10)
+Released on 2018-07-10
+
+- Label alignment fixed
+
+## [Version 2.0.9](https://github.com/efremidze/Magnetic/releases/tag/2.0.9)
+Released on 2018-05-18
+
+- Updated Podspec
+
+## [Version 2.0.8](https://github.com/efremidze/Magnetic/releases/tag/2.0.8)
+Released on 2018-05-08
+
+- Added documentation
+
+## [Version 2.0.7](https://github.com/efremidze/Magnetic/releases/tag/2.0.7)
+Released on 2018-05-01
+
+- Minor improvements
+
+## [Version 2.0.6](https://github.com/efremidze/Magnetic/releases/tag/2.0.6)
+Released on 2018-03-30
+
+- Swift 4.1 Support
+
+## [Version 2.0.5](https://github.com/efremidze/Magnetic/releases/tag/2.0.5)
+Released on 2017-12-13
+
+- Custom node path
+
+## [Version 2.0.4](https://github.com/efremidze/Magnetic/releases/tag/2.0.4)
+Released on 2017-12-13
+
+- Image bugs fix
+
+## [Version 2.0.3](https://github.com/efremidze/Magnetic/releases/tag/2.0.3)
+Released on 2017-12-10
+
+- Image aspect ratio fix
+
+## [Version 2.0.2](https://github.com/efremidze/Magnetic/releases/tag/2.0.2)
+Released on 2017-12-06
+
+- Selection fix
+
+## [Version 2.0.1](https://github.com/efremidze/Magnetic/releases/tag/2.0.1)
+Released on 2017-11-21
+
+- Bug fix
+
+## [Version 2.0.0](https://github.com/efremidze/Magnetic/releases/tag/2.0.0)
+Released on 2017-09-20
+
+- Updated to Swift 4
+
+## [Version 1.0.8](https://github.com/efremidze/Magnetic/releases/tag/1.0.8)
+Released on 2017-09-05
+
+- Fixed radius bug
+
+## [Version 1.0.7](https://github.com/efremidze/Magnetic/releases/tag/1.0.7)
+Released on 2017-07-24
+
+- Fixed initializer access
+
+## [Version 1.0.6](https://github.com/efremidze/Magnetic/releases/tag/1.0.6)
+Released on 2017-05-14
+
+- Added stroke color
+
+## [Version 1.0.5](https://github.com/efremidze/Magnetic/releases/tag/1.0.5)
+Released on 2017-05-11
+
+- Added multiline label
+
+## [Version 1.0.4](https://github.com/efremidze/Magnetic/releases/tag/1.0.4)
+Released on 2017-04-06
+
+- Added animation options
+
+## [Version 1.0.3](https://github.com/efremidze/Magnetic/releases/tag/1.0.3)
+Released on 2017-04-01
+
+- Added delegate methods for selection
+- Added documentation
+- Updated Example
+
+## [Version 1.0.2](https://github.com/efremidze/Magnetic/releases/tag/1.0.2)
+Released on 2017-03-27
+
+- Bug fixes
+
+## [Version 1.0.1](https://github.com/efremidze/Magnetic/releases/tag/1.0.1)
+Released on 2017-03-27
+
+- Updated animations
+
+## [Version 1.0.0](https://github.com/efremidze/Magnetic/releases/tag/1.0.0)
+Released on 2017-03-08
+
+- Created Project

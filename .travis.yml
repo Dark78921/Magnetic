@@ -1,0 +1,13 @@
+os: osx
+osx_image: xcode12.4
+env:
+  global:
+  - PROJECT=Magnetic.xcodeproj
+  - SCHEME="Magnetic"
+  - EXAMPLE_SCHEME="Example"
+  matrix:
+    - DESTINATION="OS=14.6,name=iPhone 8"       SCHEME="$SCHEME"
+script:
+  - set -o pipefail
+
+  - xcodebuild -project "$PROJECT" -scheme "$EXAMPLE_SCHEME" -destination "$DESTINATION" -configuration Debug ONLY_ACTIVE_ARCH=NO build | xcpretty;
